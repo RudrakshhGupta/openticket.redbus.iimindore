@@ -1,4 +1,5 @@
 🚌 redBus Vikalp Pass — Case Study Prototype
+
 A high-fidelity clone of redBus built with React Native (Expo) demonstrating the redBus Vikalp Pass solution proposed by Team Vantage for short-corridor routes (< 250 km).
 
 📱 Download Standalone Android APK
@@ -6,11 +7,13 @@ You can download and install the prototype directly on any Android smartphone or
 
 🚀 Direct APK Download: Download redBus-Vikalp-Pass.apk (v1.0.0)
 📦 GitHub Release Page: v1.0.0 Release
+
 📲 How to Install:
 Tap the download link above on your Android phone or tablet.
 Once downloaded, tap the APK in your notifications or Downloads folder.
 Select Install (if prompted by Android, tap "Allow installation from unknown sources").
 Launch the app and experience the full Vikalp Pass flow!
+
 💡 Key Features Implemented
 Short-Corridor Distance Engine:
 
